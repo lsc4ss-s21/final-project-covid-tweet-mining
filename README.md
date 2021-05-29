@@ -6,10 +6,10 @@
 **Role of Large-scale computing methods:**
 We will collect tweets from state governors and the CDC over the period of COVID-19 pandemic, and conduct content analysis (e.g., topic modeling) and visualization (e.g., word cloud). The project will benefit from large-scale computing methods from three perspectives. First, parallel solutions of the Twitter scraping process are expected to significantly improve the efficiency of data collection. With large amounts of textual data, we may also parallelize the preprocessing part (e.g. Tokenization, Stemming, and Lemmatization) and thus accelerate the data cleaning process. Finally, the high performance of large-scale methods enables us to further expand the topic with a larger scale of input data and more tuning and tests on model performance.
 
-**Division of work & Timeline:**
-Collect Data (Week8): Fengyi
-Preprocess (Week8): Boya
-Content Analysis (Week9): Boya, Yile
-Visualization (Week9): Yile
-Presentation and report rewriting (Week10): Fengyi, Boya, Yile
+**Division of work:**
+Collect Data: Fengyi
+Preprocess: Boya
+Content Analysis: Boya, Yile
+Visualization: Yile
+Presentation and Report Writing (Week10): Fengyi, Boya, Yile
 
