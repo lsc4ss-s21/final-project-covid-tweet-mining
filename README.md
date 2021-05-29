@@ -24,7 +24,7 @@ We will collect tweets from state governors and the CDC over the period of COVID
 
 Twitter
 - CDC (https://twitter.com/CDCgov)
-- Governors' Tweets: Twitter from 51 governor's Twitter, in data\governor-twitter-handle.csv, some examples: Illinois Governor JB Pritzker (https://twitter.com/GovPritzker), New York Governor Andrew Cuomo (https://twitter.com/NYGovCuomo)
+- Governors' Tweets: from 51 governor's Twitter, stored in data\governor-twitter-handle.csv, some examples: Illinois Governor JB Pritzker (https://twitter.com/GovPritzker), New York Governor Andrew Cuomo (https://twitter.com/NYGovCuomo)
 
 Covid
 - JHU COVID MAP (https://coronavirus.jhu.edu/map.html)
