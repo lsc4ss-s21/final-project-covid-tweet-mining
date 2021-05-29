@@ -20,6 +20,15 @@ We will collect tweets from state governors and the CDC over the period of COVID
 - Visualization: Yile
 - Presentation and Report: Fengyi, Boya, Yile
 
+## Data Source
+
+Twitter
+- CDC (https://twitter.com/CDCgov)
+- Governors' Tweets: Twitter from 51 governor's Twitter, in data\governor-twitter-handle.csv, some examples: Illinois Governor JB Pritzker (https://twitter.com/GovPritzker), New York Governor Andrew Cuomo (https://twitter.com/NYGovCuomo)
+
+Covid
+- JHU COVID MAP (https://coronavirus.jhu.edu/map.html)
+
 ## References:
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7188178/#ref1
