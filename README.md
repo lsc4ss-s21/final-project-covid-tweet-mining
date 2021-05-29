@@ -2,7 +2,7 @@
 
 MACS 30123: Large-Scale Computing for the Social Sciences | Spring 2021
 
-Boya Fu, Yile Chen, Fengyi Zheng
+**Team member**: Boya Fu, Yile Chen, Fengyi Zheng
 
 ## Social science research problem:
 
