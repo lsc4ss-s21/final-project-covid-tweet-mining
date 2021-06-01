@@ -29,9 +29,11 @@ Twitter
 Covid
 - JHU COVID MAP (https://coronavirus.jhu.edu/map.html)
 
-## Datasets and results
+## Datasets
 
-Large COVID-19 datasets on AWS S3 Bucket (https://registry.opendata.aws/aws-covid19-lake/)
+Large COVID-19 datasets on AWS S3 Bucket 
+- COVID-19 case tracking data from Johns Hopkins and The New York Times
+- https://registry.opendata.aws/aws-covid19-lake/
 
 ## References:
 
