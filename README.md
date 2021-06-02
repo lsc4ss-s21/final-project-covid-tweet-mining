@@ -15,7 +15,7 @@ We will collect tweets from state governors and the CDC over the period of COVID
 **Work contains five parts:**
 
 - Data Collection: Fengyi
-- Data Preprocessing: Boya, Fengyi
+- Data Preprocessing: Boya, Fengyi, Yile
 - Content Analysis: Boya, Yile
 - Visualization: Yile
 - Presentation and Report: Fengyi, Boya, Yile
