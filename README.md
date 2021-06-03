@@ -7,7 +7,16 @@ Team member: Boya Fu, Yile Chen, Fengyi Zheng
 ## Social science research problem:
 
 ### Introduction and research question:
-2020 is all about Covid-19. This unprecedented global pandemic has changed everyone's daily normal. We have seen that, in the United States, many governors like Andrew Cuomo of New York State published COVID-related content such as policy guidelines and interacted with the public on Twitter. Evidence shows that, during a health crisis, the public expects immediate and transparent responses from the government (Boin et al., 2016); political leaders play a vital role in communicating critical information to the public and guiding the citizens to combat crisis (Grossman et al., 2020). Meanwhile, social media platforms serve as channels for such engagements between leaders and citizens, and they also offer opportunities for social science researchers to derive insights from large-scale text data. In this project, we will analyze tweets of all US state governors (from Jan 2020 to Feb 2021) and explore 1. how those leaders respond to the pandemic aggregately, and 2. are there any partisan differences between twitter narratives of republic and democratic leaders. The bulk of the project would be a content analysis of collected tweets, with large-scale computing strategies integrated into data-collection, pre-processing, and modeling processes.
+2020 is all about Covid-19. This unprecedented global pandemic has changed everyone's daily normal. We have seen that, in the United States, many governors like Andrew Cuomo of New York State published COVID-related content such as policy guidelines and interacted with the public on Twitter. Evidence shows that, during a health crisis, the public expects immediate and transparent responses from the government (Boin et al., 2016); political leaders play a vital role in communicating critical information to the public and guiding the citizens to combat crisis (Grossman et al., 2020). Meanwhile, social media platforms serve as channels for such engagements between leaders and citizens, and they also offer opportunities for social science researchers to derive insights from large-scale text data. 
+
+We therefore believe that it is both timely and important to study online behaviors of political leaders during the pandemic. In our previous project for MACS 30122, we analyzed tweets from the CDC and built an interactive dashboard linking COVID-19 infection statistics with tweets. In this project, we focus specifically on state governors and scale up by examining tweets of all US state governors (from Jan 2020 to Feb 2021). We attempt to answer two research questions:
+
+1. How those political leaders respond to the pandemic aggregately
+2. Are there any partisan differences between tweeter narratives of republic and democratic leaders. 
+
+The bulk of the project would be a content analysis of collected tweets, with large-scale computing strategies integrated into data-collection, pre-processing, and modeling processes.
+
+### Related work:
 
 
 ## Research design and Large-scale computing methods:
