@@ -38,3 +38,7 @@ Large COVID-19 datasets on AWS S3 Bucket
 ## References:
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7188178/#ref1
+
+LDA modeling:
+- https://github.com/prrao87/topic-modelling
+- https://github.com/alejandronotario/LDA-Topic-Modeling
