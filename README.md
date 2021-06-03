@@ -6,7 +6,7 @@ MACS 30123 | Large-Scale Computing for the Social Sciences | Spring 2021
 
 **Social science research problem:**
 
-## Introduction and research question:
+***Introduction and research question:***
 2020 is all about Covid-19. This unprecedented global pandemic has changed everyone's daily normal. We have seen that, in the United States, many governors like Andrew Cuomo of New York State published COVID-related content such as policy guidelines and interacted with the public on Twitter. Evidence shows that, during a health crisis, the public expects immediate and transparent responses from the government (Boin et al., 2016); political leaders play a vital role in communicating critical information to the public and guiding the citizens to combat crisis (Grossman et al., 2020). Meanwhile, social media platforms serve as channels for such engagements between leaders and citizens, and they also offer opportunities for social science researchers to derive insights from large-scale text data. In this project, we will analyze tweets of all US state governors (from Jan 2020 to Feb 2021) and explore 1. how those leaders respond to the pandemic aggregately, and 2. are there any partisan differences between twitter narratives of republic and democratic leaders. The bulk of the project would be a content analysis of collected tweets, with large-scale computing strategies integrated into data-collection, pre-processing, and modeling processes.
 
 
