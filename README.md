@@ -62,6 +62,12 @@ When looking at the detailed content of the tweets, we see a difference between 
 
 In republican sample, the attitude seems more conservative and positive, with "stay, watch, thank, protect, care, get, provide" dominate the word cloud. They are more concerned with individual emotions and needs, but the attitudes tend to be mild and cautious. While in comparison, the democratican's attitudes seem more urgent and negative, with "help, latest, back, hard, every, must" appearing frequently.
 
+## Conclusion
+
+
+
+
+
 ## Data Source
 
 Twitter
