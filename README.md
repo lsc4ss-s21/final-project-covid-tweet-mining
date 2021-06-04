@@ -30,7 +30,11 @@ Various recent research has been leveraging twitter data to study political beha
 
 ## Research design and Large-scale computing methods:
 
-We will collect tweets from state governors and the CDC over the period of COVID-19 pandemic, and conduct content analysis (e.g., topic modeling) and visualization (e.g., word cloud). The project will benefit from large-scale computing methods from three perspectives. First, parallel solutions of the Twitter scraping process are expected to significantly improve the efficiency of data collection. With large amounts of textual data, we may also parallelize the preprocessing part (e.g. Tokenization, Stemming, and Lemmatization) and thus accelerate the data cleaning process. Finally, the high performance of large-scale methods enables us to further expand the topic with a larger scale of input data and more tuning and tests on model performance.
+To answer the previous research questions, we collect and analyze US state governors' tweets during the COVID-19 pandemic. We scrape data from Twitter and store the results into JSON files. Then, we conduct a record linkage and merge the text data into one CSV file. The main method of this project is content analysis. In order to better understand the Twitter narratives of governors, we utilize the LDA model to perform topic modeling and cluster the main topics in the Tweets. We are also interested in how political positions factor into the process, so we build separate models on the Tweets from democratic and republican leaders.  
+  
+Theoretically, the project will benefit from large-scale computing methods from three perspectives. First, parallel solutions of the Twitter scraping process will significantly improve the efficiency of data collection. With large amounts of text data, we may also parallelize the preprocessing part (e.g. Tokenization, Stemming, and Lemmatization) and thus accelerate the data cleaning process. Finally, the high performance of large-scale methods enables us to do more exploratory analysis and deepen our understanding of our data.  
+  
+Methodologically, we include large-scale computing strategies in three stages of our project. In the process of data collection, we use numba and MPI to accelerate the for-loop and the process of Input/Output. For data pre-processing, we apply Pyspark to read in data. Also, we will build pipelines to facilitate the sequence of stages of pre-processing. Finally, when we build the machine learning model based on LDA, Pyspark is especially helpful for the model training process.  
 
 ## Results:
 
