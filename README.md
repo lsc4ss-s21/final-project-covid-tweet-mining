@@ -63,9 +63,7 @@ In republican sample, the attitude seems more conservative and positive, with "s
 
 ## Conclusion
 
-
-
-
+In this project, the large scale computing methods enable the analyses to cover the whole sample of 52 states governors' tweeting behavior over the complete course of the pandemic, which eventually leads us to the finding of the differences between parties, and the overall inactive exploitment of the public social media in communicating in-time updates on the pandemic, which might account for the left-behind meatures taken to cope with the health crisis.
 
 ## Data Source
 
