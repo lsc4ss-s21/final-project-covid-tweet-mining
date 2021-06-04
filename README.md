@@ -40,15 +40,25 @@ Methodologically, we include large-scale computing strategies in three stages of
 
 **Overall inactive, but statewise variance in tweeting frequency**
 
+![image](https://user-images.githubusercontent.com/72182514/120869262-9cd0e900-c5c8-11eb-9011-e65a3fb6bc99.png)
+
 Different states presents huge difference in tweeting the covid-related content. In the bar chart that shows the number of covid-related tweets from each state governors, we can observe that overall, most (about 75%) states twitting covid-related content by less than 200 times, with the least active states being the Nebraska, Virginia, Alabama, Iowa, etc. However, there are also 6 or 7 midium active states, while also extremely active state like Missouri, which twitts more than 1000 times of the covid-related content, almost 5 times higher than the average. Although we have not controlled for or standardized the length across these tweets, the frequency itself does already reflect the willingness and responsiveness of the state governors in using publicly-accessible media platform to convey the information relaed to the urgent public health crisis. 
 
 **Partywide similarity in response over the course of pandemic**
+
+![image](https://user-images.githubusercontent.com/72182514/120869312-c12cc580-c5c8-11eb-975e-7c53f3edcb9c.png)
 
 Democratic always tweets more than republicans by about 200 hundreds over the course of the pandemic from March 2020 to Febrary 2021. The two parties’ number of tweets on the covid change in the similar trend: they both rise to the top in April 2020, followed by a steady decrease until September 2020, and then a second rise until the end of 2020, with finally a drop in 2021. The change is more fluctuated in republican’s tweeting behavior.
 
 **Partywide attitudes toward the health crisis present opposite patterns**
 
+![image](https://user-images.githubusercontent.com/72182514/120869329-cd188780-c5c8-11eb-95f7-0681f53ab05c.png)
+
 When looking at the detailed content of the tweets, we see a difference between the whole sample, republican sample, and democratic sample. In the full sample, content is mainly about the objective information and statistics, such as "deaths, cases, hospitalized, testing, mask, and spread"; also with some mention of "neighbor, child, and business". They are more about the aggregated level siutations and social groups.
+
+![image](https://user-images.githubusercontent.com/72182514/120869342-d6a1ef80-c5c8-11eb-9293-085d5e17ecdc.png)
+
+![image](https://user-images.githubusercontent.com/72182514/120869353-dbff3a00-c5c8-11eb-9ac1-d3b5a533deef.png)
 
 In republican sample, the attitude seems more conservative and positive, with "stay, watch, thank, protect, care, get, provide" dominate the word cloud. They are more concerned with individual emotions and needs, but the attitudes tend to be mild and cautious. While in comparison, the democratican's attitudes seem more urgent and negative, with "help, latest, back, hard, every, must" appearing frequently.
 
@@ -60,12 +70,9 @@ Twitter
 
 Covid
 - JHU COVID MAP (https://coronavirus.jhu.edu/map.html)
+- Large COVID-19 datasets on AWS S3 Bucket (https://registry.opendata.aws/aws-covid19-lake/)
 
-## Datasets
-
-Large COVID-19 datasets on AWS S3 Bucket 
-- COVID-19 case tracking data from Johns Hopkins and The New York Times
-- https://registry.opendata.aws/aws-covid19-lake/
+  (COVID-19 case tracking data from Johns Hopkins and The New York Times)
 
 ## References:
 
