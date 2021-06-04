@@ -46,7 +46,7 @@ Different states presents huge difference in tweeting the covid-related content.
 
 Democratic always tweets more than republicans by about 200 hundreds over the course of the pandemic from March 2020 to Febrary 2021. The two parties’ number of tweets on the covid change in the similar trend: they both rise to the top in April 2020, followed by a steady decrease until September 2020, and then a second rise until the end of 2020, with finally a drop in 2021. The change is more fluctuated in republican’s tweeting behavior.
 
-**Partywide attitudes toeward the health crisis presents opposite patterns**
+**Partywide attitudes toward the health crisis present opposite patterns**
 
 When looking at the detailed content of the tweets, we see a difference between the whole sample, republican sample, and democratic sample. In the full sample, content is mainly about the objective information and statistics, such as "deaths, cases, hospitalized, testing, mask, and spread"; also with some mention of "neighbor, child, and business". They are more about the aggregated level siutations and social groups.
 
