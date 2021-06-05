@@ -31,7 +31,7 @@ Various recent research has been leveraging Twitter data to study political beha
 
 To answer the previous research questions, we collect and analyze US state governors' tweets during the COVID-19 pandemic. We scrape data from Twitter and store the results into JSON files. Then, we conduct a record linkage and merge the text data into one CSV file. The main method of this project is content analysis. In order to better understand the Twitter narratives of governors, we utilize the LDA model to perform topic modeling and cluster the main topics in the Tweets. We are also interested in how political positions factor into the process, so we build separate models on the Tweets from democratic and republican leaders.  
   
-Theoretically, the project will benefit from large-scale computing methods from three perspectives. First, parallel solutions of the Twitter scraping process will significantly improve the efficiency of data collection. With large amounts of text data, we may also parallelize the preprocessing part (e.g. Tokenization, Stemming, and Lemmatization) and thus accelerate the data cleaning process. Finally, the high performance of large-scale methods enables us to do more exploratory analysis and deepen our understanding of our data.  
+Theoretically, the project will benefit from large-scale computing methods from three perspectives. First, parallel solutions of the Twitter scraping process will significantly improve the efficiency of data collection. With large amounts of text data, we may also parallelize the preprocessing part (e.g. Tokenization) and thus accelerate the data cleaning process. Finally, the high performance of large-scale methods enables us to do more exploratory analysis and deepen our understanding of our data.  
   
 Methodologically, we include large-scale computing strategies in three stages of our project. In the process of data collection, we use numba and MPI to accelerate the for-loop and the process of Input/Output. For data pre-processing, we apply Pyspark to read in data. Also, we will build pipelines to facilitate the sequence of stages of pre-processing. Finally, when we build the machine learning model based on LDA, Pyspark is especially helpful for the model training process.  
 
@@ -51,7 +51,7 @@ Democratic always tweets more than republicans by about 200 hundred throughout t
 
 ![image](https://user-images.githubusercontent.com/72182514/120869312-c12cc580-c5c8-11eb-975e-7c53f3edcb9c.png)
 
-**Partywide attitudes toward the health crisis present opposite patterns**
+**Partywide attitudes toward the health crisis present diffrent patterns**
 
 When looking at the detailed content of the tweets, we see a difference between the whole sample, republican sample, and democratic sample. In the full sample, content is mainly about the objective information and statistics, such as "deaths, cases, hospitalized, testing, mask, and spread"; also with some mention of "neighbor, child, and business". They are more about the aggregated level situations and social groups.
 
@@ -63,7 +63,9 @@ In the republican sample, the attitude seems more conservative and positive, wit
 
 ![image](https://user-images.githubusercontent.com/72182514/120869353-dbff3a00-c5c8-11eb-9ac1-d3b5a533deef.png)
 
-## Conclusion
+Besides, we used perplexity and loglikelihood metrics to evaluate our model. With relatively low perplexity and high loglikelihood scores, the LDA models performs relatively well in identifying topics.
+
+## Conclusion 
 
 In this project, the large scale computing methods enable the analyses to cover the whole sample of 52 states governors' tweeting behavior over the complete course of the pandemic, which eventually leads us to the finding of the differences between parties, and the overall inactive exploitation of the public social media in communicating in-time updates on the pandemic, which might account for the left-behind measures taken to cope with the health crisis.
 
