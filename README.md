@@ -12,6 +12,14 @@ Team member: Boya Fu, Yile Chen, Fengyi Zheng
 - Visualization: Yile, Boya
 - Presentation and Report: Fengyi, Boya, Yile
 
+[Governor_tweet_collection.ipynb]: Paralleled Data Collection.
+
+[Governor_tweet_analysis_v2.ipynb]: Final Version of tweet analysis containing exploratory data analysis, LDA modelling, evaluation and visualization.
+
+[Data]: Collected governor tweets, governor tweet handle, record linkaged csv file.
+
+Please see the repo of our previous project for further reference: https://github.com/cs-ssa-w21/final-project-covid-twitter
+
 ## Social science research problem:
 
 ### Introduction and research question:
@@ -63,7 +71,7 @@ In the republican sample, the attitude seems more conservative and positive, wit
 
 ![image](https://user-images.githubusercontent.com/72182514/120869353-dbff3a00-c5c8-11eb-9ac1-d3b5a533deef.png)
 
-Besides, we used perplexity and loglikelihood metrics to evaluate our model. With relatively low perplexity and high loglikelihood scores, the LDA models performs relatively well in identifying topics.
+Besides, we used perplexity and loglikelihood metrics to evaluate our model. With relatively low perplexity and high loglikelihood scores, the LDA models performs well in identifying topics.
 
 ## Conclusion 
 
