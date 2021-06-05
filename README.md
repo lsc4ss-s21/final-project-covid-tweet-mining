@@ -14,6 +14,8 @@ Team member: Boya Fu, Yile Chen, Fengyi Zheng
 
 [Governor_tweet_collection.ipynb]: Paralleled Data Collection.
 
+[Governor_tweet_analysis.ipynb]: Draft Version of tweet analysis of all governors aggregately.
+
 [Governor_tweet_analysis_v2.ipynb]: Final Version of tweet analysis containing exploratory data analysis, LDA modelling, evaluation and visualization.
 
 [Data]: Collected governor tweets, governor tweet handle, record linkaged csv file.
