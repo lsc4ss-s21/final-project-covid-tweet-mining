@@ -45,7 +45,7 @@ Methodologically, we include large-scale computing strategies in three stages of
 
 ## Results:
 
-**Overall inactive, but statewide variance in tweeting frequency**
+**Large statewide variance in tweeting frequency**
 
 Different states present huge differences in tweeting the covid-related content. The bar chart below shows the number of covid-related tweets from each state governor. As is illustrated in the figure, most (about 75%) state governors tweet less than 200 times. Nebraska, Virginia, Alabama, and Iowa have the least active state governors on Twitter.
 
